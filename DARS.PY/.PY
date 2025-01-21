@@ -118,10 +118,10 @@
 # print(math.sqrt(number))
 
 
-# mevalar = ['olma', 'anjir', 'shaftoli', "o'rik"] # mevalar ro'yxati (matnlar)
-# narhlar = [12000, 18000, 10900, 22000] # narhlar ro'yxati (sonlar)
-# sonlar = ['bir', 'ikki', 3, 4, 5] # sonlar va matnlar aralash ro'yxat
-#ismlar = [0,-1] # bo'sh ro'yxat
+mevalar = ['olma', 'anjir', 'shaftoli', "o'rik"] # mevalar ro'yxati (matnlar)
+narhlar = [12000, 18000, 10900, 22000] # narhlar ro'yxati (sonlar)
+sonlar = ['bir', 'ikki', 3, 4, 5] # sonlar va matnlar aralash ro'yxat
+ismlar = [] # bo'sh ro'yxat
 
 
 
@@ -240,3 +240,86 @@
 # mahsulot = bozorlik.pop(3) # Ro'yxatdan banan ni sug'urib olamiz
 # print("Men " + mahsulot + " sotib oldim")
 # print("Olinmagan mahsulotlar: ", bozorlik
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
