@@ -34,25 +34,22 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+cars = []
+cars.append((input("mashina kirit:>>>")).lower())
+cars.append((input("mashina kirit:>>>")).lower())
+cars.append((input("mashina kirit:>>>")).lower())
+cars.append((input("mashina kirit:>>>")).lower())
+cars.append((input("mashina kirit:>>>")).lower())
+cars.append((input("mashina kirit:>>>")).lower())
+cars.append((input("mashina kirit:>>>")).lower())
+cars.append((input("mashina kirit:>>>")).lower())
+cars.append((input("mashina kirit:>>>")).lower())
+cars.append((input("mashina kirit:>>>")).lower())
+cars.append((input("mashina kirit:>>>")).lower())
+cars.append((input("mashina kirit:>>>")).lower())
+cars.append((input("mashina kirit:>>>")).lower())
+cars.append((input("mashina kirit:>>>")).lower())
+cars.append((input("mashina kirit:>>>")).lower())
+cars.append((input("mashina kirit:>>>")).lower())
+print(cars)
 
